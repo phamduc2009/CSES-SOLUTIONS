@@ -5,7 +5,7 @@ using namespace std;
 #define fir first
 #define sec second
 #define str string
-const int Max_n=1e5;
+const int Max_n=2*1e5;
 const ll mod=1e9+7;
 int up[Max_n+3][20], h[Max_n+3];
 vector <int> g[Max_n+3];
